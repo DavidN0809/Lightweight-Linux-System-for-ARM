@@ -10,4 +10,4 @@ This repository is a mirror of the original project hosted at [Embedded-OS on Gi
 
 ## Documentation
 
-The accompanying PDF within the repository serves as comprehensive documentation for the lab, detailing the steps and methodologies employed throughout the project.
+The accompanying word document within the repository serves as comprehensive documentation for the lab, detailing the steps and methodologies employed throughout the project.
